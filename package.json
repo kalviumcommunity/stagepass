@@ -1,0 +1,15 @@
+{
+  "name": "stagepass",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "seed": "node seed.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "mongoose": "^7.8.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
